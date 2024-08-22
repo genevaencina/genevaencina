@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @genevaencina
+- 👋 Hi, I’m geneva
 - 👀 I’m interested in travelling and culinary!
 - 🌱 I’m currently learning how to program using python
 <!---
